@@ -1,0 +1,7 @@
+<?xml version='1.0'?>
+<kgm>
+ <kgmDummy name='shoot' parent='None'>
+  <Position value='0.8772057890892029 -0.0007837815210223198 0.07029378414154053'/>
+  <Rotation value='0.0 -0.0 0.0'/>
+ </kgmDummy>
+</kgm>

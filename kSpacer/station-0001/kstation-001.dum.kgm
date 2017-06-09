@@ -1,0 +1,19 @@
+<?xml version='1.0'?>
+<kgm>
+ <kgmDummy name='GunFA.003' parent='None'>
+  <Position value='0.0008278042078018188 -3.0215957164764404 -0.2569000720977783'/>
+  <Rotation value='0.0 -0.0 -1.5647767782211304'/>
+ </kgmDummy>
+ <kgmDummy name='GunFA.002' parent='None'>
+  <Position value='0.03118109703063965 2.9883553981781006 -0.2569000720977783'/>
+  <Rotation value='0.0 -0.0 1.5906040668487549'/>
+ </kgmDummy>
+ <kgmDummy name='GunFA.001' parent='None'>
+  <Position value='-2.988971471786499 0.013733148574829102 -0.2569000720977783'/>
+  <Rotation value='0.0 -0.0 -3.1365020275115967'/>
+ </kgmDummy>
+ <kgmDummy name='GunFA.000' parent='None'>
+  <Position value='2.9906270503997803 0.013733148574829102 -0.2569000720977783'/>
+  <Rotation value='0.0 -0.0 0.0'/>
+ </kgmDummy>
+</kgm>

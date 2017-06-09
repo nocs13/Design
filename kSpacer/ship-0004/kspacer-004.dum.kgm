@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<kgm>
+ <kgmDummy name='Motor.2' parent='None'>
+  <Position value='-1.8525093793869019 -0.5561752915382385 -0.4389488101005554'/>
+  <Rotation value='0.0 -0.0 0.0'/>
+ </kgmDummy>
+ <kgmDummy name='Motor.1' parent='None'>
+  <Position value='-1.8525093793869019 0.5554990768432617 -0.4389488101005554'/>
+  <Rotation value='0.0 -0.0 0.0'/>
+ </kgmDummy>
+ <kgmDummy name='Gun.1' parent='None'>
+  <Position value='1.7355021238327026 -0.0009491881355643272 -0.22711427509784698'/>
+  <Rotation value='0.0 -0.0 0.0'/>
+ </kgmDummy>
+</kgm>
